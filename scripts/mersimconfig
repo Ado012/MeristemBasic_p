@@ -1,0 +1,27 @@
+parameters: values
+workingFolder_config: /home/ace/Documents/Software_Projects/MeristemBasic_p/
+sourceFolder_config: /home/ace/Documents/Software_Projects/MeristemBasic_p/parameterfiles/052721/
+outputFolder_config: /home/ace/Documents/Software_Projects/MeristemBasic_p/parameterfiles/062121/
+dateDetected: 052721
+dateReplacement: 062121
+phraseDetected: 0.1 #clv3_DecayP
+phraseReplacement: 0 #clv3_DecayP
+lineInsert: 1.0 #bindCoopt
+lineToAlter: 106
+fileCompared1: parameterlist060121FcAcWt.model
+fileCompared2: parameterlist052721FcAcWt.model
+outputFolder_series: /home/ace/Documents/Software_Projects/MeristemBasic_p/Results/Raw_DataFiles/
+date_paraview: 041321
+inputFolder_paraview: /home/ace/Documents/Software_Projects/MeristemBasic_p/Results/Raw_DataFiles/
+clv3aMax: 2
+clv3bMax: 350
+clv3pMax: 250
+monomerMax: 10
+dimerMax: 10
+wusCMax: 60
+wusNMax: 75 
+wusRMax: 25
+sourceFolder_graph: /home/ace/Documents/Software_Projects/MeristemBasic_p/Results/Raw_DataFiles/
+outputFolder_graph: /home/ace/Documents/Software_Projects/MeristemBasic_p/Results/Raw_DataFiles/
+speciesGraphList: 1
+
