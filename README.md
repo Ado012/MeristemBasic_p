@@ -52,9 +52,9 @@ Run the script (eg python MerSimProcessor). Pick option 6
 The partitioned results should be output to the Results/Raw_DataFiles folder
 
 To visualize the results take the last file from the output results folder and rename it EWT.csv or run a terminal command such as 
-cp ./Results/Raw_DataFiles/extraresults062021FcAcWt/extraresults099.csv ./sheller_files/EWT.csv 
+cp ./Results/Raw_DataFiles/extraresults062021FcAcWt/extraresults099.csv ./EWT.csv 
 
-to copy it to the sheller directory. 
+to copy it to the main directory. 
 
 #Visualizing the Data
 
